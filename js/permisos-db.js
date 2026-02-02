@@ -208,7 +208,7 @@ const PERMISOS_DB = {
         numeroMotor: 'G4PGNE007243',
         fechaVigencia: '2026-03-05',
         nombre: 'LUIS ANTONIO GOMEZ ROSAS',
-        imagen: 'images/permiso-ALCO-56508.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
 
     
