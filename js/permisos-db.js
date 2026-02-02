@@ -10,7 +10,7 @@ const PERMISOS_DB = {
         numeroSerie: 'ML5EREN15RDAB7448',
         numeroMotor: 'SIN NUMERO',
         fechaVigencia: '2025-11-23',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56493': {
         folio: 'ALCO-56493',
@@ -22,7 +22,7 @@ const PERMISOS_DB = {
         numeroSerie: 'JH1234567890123456',
         numeroMotor: 'R18A1234567',
         fechaVigencia: '2025-12-15',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56494': {
         folio: 'ALCO-56494',
@@ -34,7 +34,7 @@ const PERMISOS_DB = {
         numeroSerie: 'JT1234567890123456',
         numeroMotor: '2ZR1234567',
         fechaVigencia: '2024-08-15',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56495': {
         folio: 'ALCO-56495',
@@ -46,7 +46,7 @@ const PERMISOS_DB = {
         numeroSerie: 'NI1234567890123456',
         numeroMotor: 'HR16DE123456',
         fechaVigencia: '2026-03-20',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56496': {
         folio: 'ALCO-56496',
@@ -58,7 +58,7 @@ const PERMISOS_DB = {
         numeroSerie: 'FD1234567890123456',
         numeroMotor: 'DURATEC123456',
         fechaVigencia: '2026-01-15',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56497': {
         folio: 'ALCO-56497',
@@ -70,7 +70,7 @@ const PERMISOS_DB = {
         numeroSerie: 'CH1234567890123456',
         numeroMotor: 'ECOTEC123456',
         fechaVigencia: '2024-05-10',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56498': {
         folio: 'ALCO-56498',
@@ -82,7 +82,7 @@ const PERMISOS_DB = {
         numeroSerie: 'VW1234567890123456',
         numeroMotor: 'TSI123456',
         fechaVigencia: '2023-12-20',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
     'ALCO-56499': {
         folio: 'ALCO-56499',
@@ -94,7 +94,7 @@ const PERMISOS_DB = {
         numeroSerie: 'ML5EXER12RDAD4045',
         numeroMotor: 'NA',
         fechaVigencia: '2025-12-09',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
         'ALCO-56500': {
         folio: 'ALCO-56500',
@@ -106,7 +106,7 @@ const PERMISOS_DB = {
         numeroSerie: 'JKAEXEK11HDA00420',
         numeroMotor: 'NA',
         fechaVigencia: '2025-12-16',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
             'ALCO-56501': {
         folio: 'ALCO-56501',
@@ -118,7 +118,7 @@ const PERMISOS_DB = {
         numeroSerie: '3MUBJGBD2P1227071',
         numeroMotor: '169FMM2PA040657',
         fechaVigencia: '2025-12-28',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
             'ALCO-56502': {
         folio: 'ALCO-56502',
@@ -130,7 +130,7 @@ const PERMISOS_DB = {
         numeroSerie: 'ML5EXGG13RDA10601',
         numeroMotor: 'NA',
         fechaVigencia: '2025-12-28',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     },
             'ALCO-56503': {
         folio: 'ALCO-56503',
@@ -142,7 +142,7 @@ const PERMISOS_DB = {
         numeroSerie: 'ML5ELFA11SDA23190',
         numeroMotor: 'NA',
         fechaVigencia: '2025-12-28',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
     ,
                 'ALCO-56504': {
@@ -155,7 +155,7 @@ const PERMISOS_DB = {
         numeroSerie: 'LCEPESLE7S6000595',
         numeroMotor: 'N/ A',
         fechaVigencia: '2026-02-21',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
 ,
                 'ALCO-56505': {
@@ -168,7 +168,7 @@ const PERMISOS_DB = {
         numeroSerie: '1J4PS4GK1AC124263',
         numeroMotor: 'NA',
         fechaVigencia: '2026-02-04',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
     ,
                 'ALCO-56506': {
@@ -181,7 +181,7 @@ const PERMISOS_DB = {
         numeroSerie: 'JYAVP33E2BA000696',
         numeroMotor: 'NA',
         fechaVigencia: '2026-02-19',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
         ,
                 'ALCO-56507': {
@@ -194,7 +194,7 @@ const PERMISOS_DB = {
         numeroSerie: 'ML5EXER16PDA94833',
         numeroMotor: 'NA',
         fechaVigencia: '2026-02-19',
-        imagen: '/images/img-permiso-certificado.png'
+        imagen: 'images/img-permiso-certificado.png'
     }
             ,
                 'ALCO-56508': {
@@ -208,7 +208,7 @@ const PERMISOS_DB = {
         numeroMotor: 'G4PGNE007243',
         fechaVigencia: '2026-03-05',
         nombre: 'LUIS ANTONIO GOMEZ ROSAS',
-        imagen: '/images/permiso-ALCO-56508.png'
+        imagen: 'images/permiso-ALCO-56508.png'
     }
 
     
@@ -224,7 +224,7 @@ const PERMISOS_DB = {
     //     numeroSerie: 'NUMERO_DE_SERIE',
     //     numeroMotor: 'NUMERO_DE_MOTOR',
     //     fechaVigencia: 'AAAA-MM-DD',
-    //     imagen: '/images/img-permiso-certificado.png'
+    //     imagen: 'images/img-permiso-certificado.png'
     // }
 };
 

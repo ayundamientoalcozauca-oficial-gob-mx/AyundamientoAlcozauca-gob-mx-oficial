@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                      alt="Certificado de permiso ${permiso.folio}" 
                                      class="rounded-lg shadow-md mx-auto" 
                                      style="max-width: 100%; width: 600px;"
-                                     onerror="this.src='/images/img-permiso-certificado.png'">
+                                     onerror="this.src='images/img-permiso-certificado.png'">
                             </div>
                             
                             <!-- Detalles del permiso -->
