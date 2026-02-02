@@ -206,6 +206,7 @@ const PERMISOS_DB = {
         color: 'GRIS',
         numeroSerie: '3KPA34AC7NE458466',
         numeroMotor: 'G4PGNE007243',
+        fechaExpedicion: '2026-02-02',
         fechaVigencia: '2026-03-05',
         nombre: 'LUIS ANTONIO GOMEZ ROSAS',
         imagen: 'images/img-permiso-certificado.png'

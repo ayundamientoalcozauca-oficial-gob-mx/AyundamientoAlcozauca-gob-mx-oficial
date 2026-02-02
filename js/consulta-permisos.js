@@ -213,6 +213,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             
                             <!-- Acciones -->
                             <div class="mt-6 text-center space-y-4">
+                                <button onclick="descargarPermisoPDF(window.permisoActual)" class="bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-6 rounded-lg transition duration-300 mr-2">
+                                    <i class="bi bi-file-earmark-pdf mr-2"></i>
+                                    Descargar PDF
+                                </button>
                                 <button onclick="window.print()" class="bg-gray-600 hover:bg-gray-700 text-white font-semibold py-2 px-6 rounded-lg transition duration-300">
                                     <i class="bi bi-printer mr-2"></i>
                                     Imprimir Certificado
@@ -250,6 +254,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const permiso = buscarPermiso(folioConsulta);
         
         if (permiso) {
+            window.permisoActual = permiso;
             mostrarPermiso(permiso);
             // Actualizar el titulo de la pagina
             document.title = `Permiso ${permiso.folio} - H. Municipio de Alcozauca de Guerrero`;
